@@ -1,0 +1,4 @@
+class bot:
+    BOT_TOKEN = "rSB8DRLc56C1wX8M4tWU"
+    CLIENT_ID = "10747"
+    CLIENT_SECRET = "4vZ3rbeFea2F7W2y7IJLk4sHq2R3LhtdNpCzWrta"
