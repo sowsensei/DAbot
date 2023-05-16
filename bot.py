@@ -1,4 +1,5 @@
 import CONFIG
+import time
 from flask import Flask, redirect, request
 from donationalerts import DonationAlertsAPI, Scopes
 
@@ -42,7 +43,7 @@ def login():
             amount_str = str(int(donations[username]))
         else:
             amount_str = "{:.2f}".format(donations[username])
-        donation_strings.append("{}: {}".format(username, amount_str))
+        donation_strings.append("{} -  {}".format(username, amount_str))
 
     result = "<br>".join(donation_strings)
     return result
