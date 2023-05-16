@@ -1,0 +1,846 @@
+{
+    "data": [
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-05-16 18:34:22",
+            "created_at_ts": 1652726062,
+            "currency": "RUB",
+            "id": 97098924,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-16 18:34:25",
+            "shown_at_ts": 1652726065,
+            "username": null
+        },
+        {
+            "amount": 27,
+            "amount_in_user_currency": 27,
+            "created_at": "2022-05-15 13:06:26",
+            "created_at_ts": 1652619986,
+            "currency": "RUB",
+            "id": 97038911,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-15 13:06:27",
+            "shown_at_ts": 1652619987,
+            "username": null
+        },
+        {
+            "amount": 100,
+            "amount_in_user_currency": 100,
+            "created_at": "2022-05-14 06:39:13",
+            "created_at_ts": 1652510353,
+            "currency": "RUB",
+            "id": 96979659,
+            "is_shown": 1,
+            "message": "\u0420\u0435\u0441\u043f\u0435\u043a\u0442",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-14 06:39:15",
+            "shown_at_ts": 1652510355,
+            "username": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041c\u0438\u0448\u043a\u0430"
+        },
+        {
+            "amount": 20,
+            "amount_in_user_currency": 20,
+            "created_at": "2022-05-14 06:23:52",
+            "created_at_ts": 1652509432,
+            "currency": "RUB",
+            "id": 96979516,
+            "is_shown": 1,
+            "message": "\u0414\u0430\u0433\u043e\u043d \u043f\u0435\u0440\u0432\u044b\u043c \u0441\u043b\u043e\u0442\u043e\u043c \u0438 \u043b\u044e\u0431\u044b\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0438\u0442\u0435\u043c\u044b",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-14 06:23:54",
+            "shown_at_ts": 1652509434,
+            "username": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041c\u0438\u0448\u043a\u0430"
+        },
+        {
+            "amount": 20,
+            "amount_in_user_currency": 20,
+            "created_at": "2022-05-14 06:21:39",
+            "created_at_ts": 1652509299,
+            "currency": "RUB",
+            "id": 96979482,
+            "is_shown": 1,
+            "message": "\u0413\u043e \u0447\u0435\u043b\u0435\u043d\u0434\u0436 \u0441 \u0434\u0430\u0433\u043e\u043d\u043e\u043c \u0438\u0433\u0440\u0430\u0442\u044c \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u043a\u0430\u0442\u043a\u0438 \u0437\u0430 100 \u0440\u0443\u0431\u043b\u0435\u0439",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-14 06:21:42",
+            "shown_at_ts": 1652509302,
+            "username": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041c\u0438\u0448\u043a\u0430"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-05-08 19:15:22",
+            "created_at_ts": 1652037322,
+            "currency": "RUB",
+            "id": 96748079,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-05-08 19:15:22",
+            "shown_at_ts": 1652037322,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-29 18:41:31",
+            "created_at_ts": 1651257691,
+            "currency": "RUB",
+            "id": 96318766,
+            "is_shown": 1,
+            "message": "\u0422\u043e\u0442 \u0441\u0430\u043c\u044b\u0439 \u0442\u0440\u0435\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0443 \u043c\u0435\u043d\u044f \u043d\u0430 \u043f\u043e\u0432\u0442\u043e\u0440\u0435 \u0434\u043e \u0441\u0438\u0445 \u043f\u043e\u0440. \u041a\u0430\u0439\u0444\u0443\u044e \u043e\u0442 \u043d\u0435\u0433\u043e",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-29 18:41:34",
+            "shown_at_ts": 1651257694,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-28 19:26:41",
+            "created_at_ts": 1651174001,
+            "currency": "RUB",
+            "id": 96276861,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-28 19:26:44",
+            "shown_at_ts": 1651174004,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-27 15:56:46",
+            "created_at_ts": 1651075006,
+            "currency": "RUB",
+            "id": 96221540,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-27 15:56:48",
+            "shown_at_ts": 1651075008,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-23 19:55:35",
+            "created_at_ts": 1650743735,
+            "currency": "RUB",
+            "id": 96065789,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-23 19:55:36",
+            "shown_at_ts": 1650743736,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-22 15:01:36",
+            "created_at_ts": 1650639696,
+            "currency": "RUB",
+            "id": 95993893,
+            "is_shown": 1,
+            "message": "\u0410\u0437\u0430\u0437\u0430\u0437\u0430\u0437\u0430\u0437\u0430\u0437\u0430\u0437\u0430",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-22 15:01:37",
+            "shown_at_ts": 1650639697,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-21 18:22:14",
+            "created_at_ts": 1650565334,
+            "currency": "RUB",
+            "id": 95962845,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-21 18:22:16",
+            "shown_at_ts": 1650565336,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-19 18:05:22",
+            "created_at_ts": 1650391522,
+            "currency": "RUB",
+            "id": 95876508,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-19 18:05:23",
+            "shown_at_ts": 1650391523,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-19 17:57:31",
+            "created_at_ts": 1650391051,
+            "currency": "RUB",
+            "id": 95875951,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-19 17:57:32",
+            "shown_at_ts": 1650391052,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-19 16:29:50",
+            "created_at_ts": 1650385790,
+            "currency": "RUB",
+            "id": 95869947,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-19 16:29:51",
+            "shown_at_ts": 1650385791,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-19 16:27:10",
+            "created_at_ts": 1650385630,
+            "currency": "RUB",
+            "id": 95869753,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-19 16:27:13",
+            "shown_at_ts": 1650385633,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 100,
+            "amount_in_user_currency": 100,
+            "created_at": "2022-04-19 16:18:05",
+            "created_at_ts": 1650385085,
+            "currency": "RUB",
+            "id": 95869198,
+            "is_shown": 1,
+            "message": "\u041d\u0443 \u0447\u0438\u0441\u0442\u043e \u043f\u0435\u0440\u0435\u0434 \u0437\u043f \u043e\u0431\u043d\u0443\u043b\u0438\u0442\u044c)",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-19 16:18:07",
+            "shown_at_ts": 1650385087,
+            "username": "Mishgan666"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-18 17:34:34",
+            "created_at_ts": 1650303274,
+            "currency": "RUB",
+            "id": 95833091,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-18 17:34:35",
+            "shown_at_ts": 1650303275,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-18 17:19:13",
+            "created_at_ts": 1650302353,
+            "currency": "RUB",
+            "id": 95831999,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-18 17:19:15",
+            "shown_at_ts": 1650302355,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-17 16:18:53",
+            "created_at_ts": 1650212333,
+            "currency": "RUB",
+            "id": 95783964,
+            "is_shown": 1,
+            "message": "\u041d\u0430 \u0447\u0430\u0439 \u0441 \u043f\u0435\u0447\u0435\u043d\u044c\u043a\u0430\u043c\u0438",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "YooMoney"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-17 16:18:55",
+            "shown_at_ts": 1650212335,
+            "username": "\u0410\u043d\u0434\u0440\u0435\u0439-90"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-16 15:26:43",
+            "created_at_ts": 1650122803,
+            "currency": "RUB",
+            "id": 95727135,
+            "is_shown": 1,
+            "message": "\u0442\u0440\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430\u0442\u0430",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-16 15:26:51",
+            "shown_at_ts": 1650122811,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-16 14:31:56",
+            "created_at_ts": 1650119516,
+            "currency": "RUB",
+            "id": 95723765,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-16 14:31:57",
+            "shown_at_ts": 1650119517,
+            "username": null
+        },
+        {
+            "amount": 40,
+            "amount_in_user_currency": 40,
+            "created_at": "2022-04-16 14:13:43",
+            "created_at_ts": 1650118423,
+            "currency": "RUB",
+            "id": 95722783,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-16 14:13:45",
+            "shown_at_ts": 1650118425,
+            "username": null
+        },
+        {
+            "amount": 20,
+            "amount_in_user_currency": 20,
+            "created_at": "2022-04-16 14:10:00",
+            "created_at_ts": 1650118200,
+            "currency": "RUB",
+            "id": 95722598,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-16 14:10:01",
+            "shown_at_ts": 1650118201,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-16 13:39:36",
+            "created_at_ts": 1650116376,
+            "currency": "RUB",
+            "id": 95721161,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "YooMoney"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-16 13:39:38",
+            "shown_at_ts": 1650116378,
+            "username": "\u0410\u043d\u0434\u0440\u0435\u0439-90"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-15 16:23:25",
+            "created_at_ts": 1650039805,
+            "currency": "RUB",
+            "id": 95678044,
+            "is_shown": 1,
+            "message": "\u041f\u043e\u0441\u0432\u044f\u0449\u0430\u0435\u0442\u0441\u044f \u0432\u0435\u043b\u0438\u0447\u0430\u0439\u0448\u0435\u043c\u0443",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-15 16:23:26",
+            "shown_at_ts": 1650039806,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-05 19:35:53",
+            "created_at_ts": 1649187353,
+            "currency": "RUB",
+            "id": 95238203,
+            "is_shown": 1,
+            "message": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u043a\u043b\u0430\u0441\u0441\u043d\u044b\u0439 \u0441\u0442\u0440\u0438\u043c) \u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f \u0438\u0433\u0440\u0430 \u0431\u044b\u043b\u0430 \u043a\u0440\u0430\u0439\u043d\u0435 \u043f\u043e\u0442\u043d\u043e\u0439, \u0442\u044b \u043a\u0440\u0430\u0441\u0430\u0432\u0447\u0438\u043a",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-05 19:35:55",
+            "shown_at_ts": 1649187355,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-04-03 11:00:17",
+            "created_at_ts": 1648983617,
+            "currency": "RUB",
+            "id": 95132174,
+            "is_shown": 1,
+            "message": null,
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-04-03 11:00:19",
+            "shown_at_ts": 1648983619,
+            "username": null
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-03-31 16:23:27",
+            "created_at_ts": 1648743807,
+            "currency": "RUB",
+            "id": 95002193,
+            "is_shown": 1,
+            "message": "",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "QIWI"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-03-31 16:34:30",
+            "shown_at_ts": 1648744470,
+            "username": "kivas1v"
+        },
+        {
+            "amount": 50,
+            "amount_in_user_currency": 50,
+            "created_at": "2022-03-26 21:18:29",
+            "created_at_ts": 1648329509,
+            "currency": "RUB",
+            "id": 94806803,
+            "is_shown": 1,
+            "message": "\u041f\u0440\u0438\u0432\u0435\u0442, \u0442\u044b \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0440\u0438\u043a\u0438 \u0438\u0433\u0440\u0430\u0435\u0448\u044c? \u041f\u043e\u0447\u0435\u043c\u0443 \u0442\u043e\u0433\u043e \u0442\u0438\u043d\u0438 \u043d\u0435 \u043f\u0438\u043a\u0430\u0435\u0448\u044c?",
+            "message_type": "text",
+            "name": "Donations",
+            "payin_system": {
+                "title": "Bank card RUB"
+            },
+            "recipient": {
+                "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/16a4d1fa-eee8-42a6-9649-fc3d38992db6-profile_image-300x300.png",
+                "code": "sowsensei",
+                "name": "sowsensei",
+                "user_id": 6438759
+            },
+            "recipient_name": "sowsensei",
+            "shown_at": "2022-03-26 21:18:31",
+            "shown_at_ts": 1648329511,
+            "username": "krot"
+        }
+    ],
+    "links": {
+        "first": "https://www.donationalerts.com/api/v1/alerts/donations?page=1",
+        "last": "https://www.donationalerts.com/api/v1/alerts/donations?page=19",
+        "next": "https://www.donationalerts.com/api/v1/alerts/donations?page=19",
+        "prev": "https://www.donationalerts.com/api/v1/alerts/donations?page=17"
+    },
+    "meta": {
+        "current_page": 18,
+        "from": 511,
+        "last_page": 19,
+        "links": [
+            {
+                "active": false,
+                "label": "&laquo; Previous",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=17"
+            },
+            {
+                "active": false,
+                "label": "1",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=1"
+            },
+            {
+                "active": false,
+                "label": "2",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=2"
+            },
+            {
+                "active": false,
+                "label": "...",
+                "url": null
+            },
+            {
+                "active": false,
+                "label": "10",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=10"
+            },
+            {
+                "active": false,
+                "label": "11",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=11"
+            },
+            {
+                "active": false,
+                "label": "12",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=12"
+            },
+            {
+                "active": false,
+                "label": "13",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=13"
+            },
+            {
+                "active": false,
+                "label": "14",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=14"
+            },
+            {
+                "active": false,
+                "label": "15",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=15"
+            },
+            {
+                "active": false,
+                "label": "16",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=16"
+            },
+            {
+                "active": false,
+                "label": "17",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=17"
+            },
+            {
+                "active": true,
+                "label": "18",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=18"
+            },
+            {
+                "active": false,
+                "label": "19",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=19"
+            },
+            {
+                "active": false,
+                "label": "Next &raquo;",
+                "url": "https://www.donationalerts.com/api/v1/alerts/donations?page=19"
+            }
+        ],
+        "path": "https://www.donationalerts.com/api/v1/alerts/donations",
+        "per_page": 30,
+        "to": 540,
+        "total": 561
+    }
+}
